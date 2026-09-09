@@ -1,0 +1,5 @@
+2026-09-09 22:25:34 | WARNING  | auth.py | Invalid login attempt
+2026-09-09 22:26:06 | WARNING  | calculator.py | Invalid number input during calculation
+2026-09-09 22:26:22 | ERROR    | file_operations.py | File could not be opened: input.txt
+2026-09-09 22:27:32 | WARNING  | calculator.py | Invalid operator entered: ?30
+2026-09-09 22:27:58 | WARNING  | main.py | Invalid menu choice: exit

@@ -1,0 +1,27 @@
+2026-09-09 22:25:26 | INFO     | main.py | Application started
+2026-09-09 22:25:29 | DEBUG    | auth.py | Login attempt started
+2026-09-09 22:25:34 | WARNING  | auth.py | Invalid login attempt
+2026-09-09 22:25:38 | DEBUG    | auth.py | Login attempt started
+2026-09-09 22:25:42 | INFO     | auth.py | User logged in
+2026-09-09 22:25:48 | DEBUG    | calculator.py | Calculation started
+2026-09-09 22:25:54 | INFO     | calculator.py | Calculation completed: 10.0 + 20.0 = 30.0
+2026-09-09 22:25:56 | DEBUG    | calculator.py | Calculation started
+2026-09-09 22:26:06 | WARNING  | calculator.py | Invalid number input during calculation
+2026-09-09 22:26:12 | DEBUG    | file_operations.py | File read operation started
+2026-09-09 22:26:22 | ERROR    | file_operations.py | File could not be opened: input.txt
+2026-09-09 22:26:27 | DEBUG    | file_operations.py | File write operation started
+2026-09-09 22:26:39 | INFO     | file_operations.py | File written successfully: input.txt
+2026-09-09 22:26:46 | DEBUG    | file_operations.py | File write operation started
+2026-09-09 22:27:00 | INFO     | file_operations.py | File written successfully: Testing.txt
+2026-09-09 22:27:03 | INFO     | auth.py | User logged out: admin
+2026-09-09 22:27:03 | INFO     | main.py | Application ended
+2026-09-09 22:27:05 | INFO     | main.py | Application started
+2026-09-09 22:27:07 | DEBUG    | auth.py | Login attempt started
+2026-09-09 22:27:12 | INFO     | auth.py | User logged in
+2026-09-09 22:27:24 | DEBUG    | calculator.py | Calculation started
+2026-09-09 22:27:32 | WARNING  | calculator.py | Invalid operator entered: ?30
+2026-09-09 22:27:41 | DEBUG    | file_operations.py | File read operation started
+2026-09-09 22:27:44 | INFO     | file_operations.py | File read successfully: input.txt
+2026-09-09 22:27:58 | WARNING  | main.py | Invalid menu choice: exit
+2026-09-09 22:28:01 | INFO     | auth.py | User logged out: admin
+2026-09-09 22:28:01 | INFO     | main.py | Application ended
